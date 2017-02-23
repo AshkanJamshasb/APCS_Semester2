@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Student()
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=quizScores
+comment3.target=void\ setScores(double[])
+comment4.params=
+comment4.target=double\ getAverage()
+numComments=5

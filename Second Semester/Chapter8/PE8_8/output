@@ -1,0 +1,10 @@
+How many students are there: 2
+Enter student 1 name: Jack
+Enter student 2 name: John
+How many quizes did each student take? 2
+Enter Jack's score on quiz 1: 100
+Enter Jack's score on quiz 2: 60
+Enter John's score on quiz 1: 70
+Enter John's score on quiz 2: 90
+The average quiz score for Jack is 80.0.
+The average quiz score for John is 80.0.
