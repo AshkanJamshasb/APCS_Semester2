@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=year\ month\ day
+comment0.target=Monthly(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ repeat()
+numComments=2

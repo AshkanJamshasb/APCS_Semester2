@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=year\ month\ day
+comment0.target=Appointment(int,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ date()
+comment2.params=year\ month\ day
+comment2.target=boolean\ occursOn(int,\ int,\ int)
+numComments=3

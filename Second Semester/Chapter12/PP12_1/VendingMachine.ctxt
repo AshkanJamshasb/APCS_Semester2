@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VendingMachine()
+comment1.params=item
+comment1.target=void\ purchase(int)
+numComments=2
