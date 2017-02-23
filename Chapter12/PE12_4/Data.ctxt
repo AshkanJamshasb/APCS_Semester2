@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=in1\ in2
+comment0.target=int\ add(int,\ int)
+comment1.params=in1\ in2
+comment1.target=int\ subtract(int,\ int)
+comment2.params=answer\ userAnswer
+comment2.target=void\ tries(int,\ int)
+comment3.params=userAnswer
+comment3.target=boolean\ checkAnswer(int)
+numComments=4

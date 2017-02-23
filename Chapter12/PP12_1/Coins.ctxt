@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coins()
+comment1.params=balance
+comment1.target=void\ addCoin(double)
+comment2.params=cost
+comment2.target=void\ subtractCoin(double)
+numComments=3

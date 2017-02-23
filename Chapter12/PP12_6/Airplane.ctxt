@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Airplane()
+comment1.params=seatingClass
+comment1.target=int\ checkForOpenSeats(java.lang.String)
+comment2.params=seatingClass
+comment2.target=boolean\ openSeat(java.lang.String)
+comment3.params=seatingClass
+comment3.target=void\ takeSeat(java.lang.String)
+comment4.params=
+comment4.target=void\ displaySeats()
+numComments=5
