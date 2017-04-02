@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=disks\ from\ to
+comment1.target=void\ move(int,\ int,\ int)
+comment2.params=from\ to
+comment2.target=java.lang.String\ nextMove(int,\ int)
+comment3.params=disks\ from
+comment3.target=boolean\ hasNextMove(int,\ int)
+numComments=4

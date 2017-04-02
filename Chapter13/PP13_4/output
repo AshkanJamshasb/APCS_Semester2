@@ -1,0 +1,24 @@
+*   * * * * * * * 
+*           *   * 
+*   * * * * *   * 
+*   *   *       * 
+*   *   * * *   * 
+*       *       * 
+* *   * *   *   * 
+*           *   * 
+* * * * * * *   * 
+Row: 1, Col: 5
+Up
+Next left + *
+Row: 1, Col: 4
+Up
+Next left + *
+Row: 1, Col: 3
+Up
+Next left + *
+Row: 1, Col: 2
+Up
+Next left + *
+Row: 1, Col: 1
+Up
+You've excaped!
